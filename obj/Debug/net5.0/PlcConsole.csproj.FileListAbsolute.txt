@@ -1,0 +1,16 @@
+E:\Documents\www\PlcConsole\bin\Debug\net5.0\PlcConsole.exe
+E:\Documents\www\PlcConsole\bin\Debug\net5.0\PlcConsole.deps.json
+E:\Documents\www\PlcConsole\bin\Debug\net5.0\PlcConsole.runtimeconfig.json
+E:\Documents\www\PlcConsole\bin\Debug\net5.0\PlcConsole.runtimeconfig.dev.json
+E:\Documents\www\PlcConsole\bin\Debug\net5.0\PlcConsole.dll
+E:\Documents\www\PlcConsole\bin\Debug\net5.0\ref\PlcConsole.dll
+E:\Documents\www\PlcConsole\bin\Debug\net5.0\PlcConsole.pdb
+E:\Documents\www\PlcConsole\obj\Debug\net5.0\PlcConsole.csprojAssemblyReference.cache
+E:\Documents\www\PlcConsole\obj\Debug\net5.0\PlcConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\www\PlcConsole\obj\Debug\net5.0\PlcConsole.AssemblyInfoInputs.cache
+E:\Documents\www\PlcConsole\obj\Debug\net5.0\PlcConsole.AssemblyInfo.cs
+E:\Documents\www\PlcConsole\obj\Debug\net5.0\PlcConsole.csproj.CoreCompileInputs.cache
+E:\Documents\www\PlcConsole\obj\Debug\net5.0\PlcConsole.dll
+E:\Documents\www\PlcConsole\obj\Debug\net5.0\ref\PlcConsole.dll
+E:\Documents\www\PlcConsole\obj\Debug\net5.0\PlcConsole.pdb
+E:\Documents\www\PlcConsole\obj\Debug\net5.0\PlcConsole.genruntimeconfig.cache
